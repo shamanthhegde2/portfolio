@@ -1,2 +1,2 @@
 # portfolio
-adding css to the website
+learning css and implementing it
