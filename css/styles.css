@@ -82,7 +82,7 @@ p{
   .bottom-cloud{
     position: absolute;
     left: 15.625rem;
-    bottom: 300px;
+    bottom: 18.75rem;
 }
 .contact-message{
     width: 50%;
@@ -102,7 +102,7 @@ p{
     text-decoration: underline;
 }
 .photo{
-    width: 18.75rem;
+    width: 30%;
 }
 .profile{
     width: 50%;
@@ -112,7 +112,7 @@ p{
 .top-cloud{
     position: absolute;
     right: 18.75rem;
-    top: 40px;
+    top: 2.5rem;
 }
 
 .skills{
