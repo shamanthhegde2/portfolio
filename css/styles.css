@@ -6,7 +6,7 @@ body{
 }
 
 h1{
-    font-size: 562.5%;
+    font-size: 5.625rem;
     margin-top: 2.5rem;
     margin-bottom: 0px;
     font-family: 'Sacramento', cursive;
@@ -14,7 +14,7 @@ h1{
 }
 h2{
     font-family: 'Montserrat', sans-serif;
-    font-size: 250%;
+    font-size: 2.5rem;
     color: rgb(221, 64, 64);
     font-weight: normal;
 }
@@ -102,7 +102,7 @@ p{
     text-decoration: underline;
 }
 .photo{
-    width: 30%;
+    width: 250px;
 }
 .profile{
     width: 50%;
