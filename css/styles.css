@@ -1,0 +1,170 @@
+/******************tag selector*************/
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin-top: 2.5rem;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    color: rgb(216, 39, 39);
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: rgb(221, 64, 64);
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+   width: 5%;
+   border-style: dotted none none none;
+   border-width: 10px;
+   border-color: #b1dddd;
+    
+}
+a{
+    color: rgb(185, 8, 8);
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+span{
+    color: rgb(185, 8, 8);
+    font-weight: bolder;
+}
+p{
+    color: #40514E;
+}
+/********************class selectors*************/
+.top-container{
+    background-color: #f38181;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-container{
+    background-color: #f38181;
+    padding:50px 0px 20px;
+}
+.btn {
+    background: rgb(216, 39, 39);
+    background-image: -webkit-linear-gradient(top, rgb(216, 39, 39), rgb(221, 64, 64));
+    background-image: -moz-linear-gradient(top, rgb(216, 39, 39), rgb(221, 64, 64));
+    background-image: -ms-linear-gradient(top, rgb(216, 39, 39), rgb(221, 64, 64));
+    background-image: -o-linear-gradient(top, rgb(216, 39, 39), rgb(221, 64, 64));
+    background-image: linear-gradient(to bottom, rgb(216, 39, 39), rgb(221, 64, 64));
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: red;
+    background-image: -webkit-linear-gradient(top, red, #f38181);
+    background-image: -moz-linear-gradient(top, red, #f38181);
+    background-image: -ms-linear-gradient(top, red, #f38181);
+    background-image: -o-linear-gradient(top, red, #f38181);
+    background-image: linear-gradient(to bottom, red, #f38181);
+    text-decoration: none;
+  }
+  .bottom-cloud{
+    position: absolute;
+    left: 15.625rem;
+    bottom: 300px;
+}
+.contact-message{
+    width: 50%;
+    margin:50px auto;
+    font-size: 30px;
+}
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  .contact-me{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.pro{
+    text-decoration: underline;
+}
+.photo{
+    width: 18.75rem;
+}
+.profile{
+    width: 50%;
+    margin:100px auto;
+    line-height: 2;
+}
+.top-cloud{
+    position: absolute;
+    right: 18.75rem;
+    top: 40px;
+}
+
+.skills{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.skill-row{
+    width: 50%;
+    margin:150px auto;
+    text-align: left;
+    line-height: 2;
+}
+.web{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.game{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.ds{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.data{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.ML{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.DL{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.footer-link{
+      margin: 70px 50px 0px 50px;
+  }
+  .JDI{
+      font-weight: bolder;
+      font-size: 40px;
+      color: grey;
+      text-shadow: 3px 3px 5px blueviolet;
+  }
+  
+  
